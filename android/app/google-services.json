@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "747916107590",
+    "project_id": "virtual-personal-trainer-app",
+    "storage_bucket": "virtual-personal-trainer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747916107590:android:55c4efc8117d910d974f47",
+        "android_client_info": {
+          "package_name": "com.example.hypertrophy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747916107590-2s0ldnctcpemnj1cpgu8ofs8cvvpn10s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFRJVsTysg8xsIkRftECFsogvLtFWhV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747916107590-2s0ldnctcpemnj1cpgu8ofs8cvvpn10s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "747916107590-82f364l0lhu2b0srj5l5n1kou2f83mje.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.hypertrophyApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

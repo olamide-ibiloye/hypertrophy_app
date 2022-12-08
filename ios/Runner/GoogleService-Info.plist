@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>747916107590-82f364l0lhu2b0srj5l5n1kou2f83mje.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.747916107590-82f364l0lhu2b0srj5l5n1kou2f83mje</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBKke8eifQqvn3cO8vc2if5bR7GB4SORrs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>747916107590</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.hypertrophyApp</string>
+	<key>PROJECT_ID</key>
+	<string>virtual-personal-trainer-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>virtual-personal-trainer-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:747916107590:ios:d4ea4f6505d0169a974f47</string>
+</dict>
+</plist>
